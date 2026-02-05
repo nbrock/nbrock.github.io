@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Checking to see if edits show up
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
